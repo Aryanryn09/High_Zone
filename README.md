@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project High_zone
 
 Develop an elegant React.js Music Application. 
 
